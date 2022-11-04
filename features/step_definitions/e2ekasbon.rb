@@ -1,6 +1,5 @@
 require_relative '../support/buttons.rb'
 require_relative '../pages/channel KasBon.rb'
-#comment lagi
 
 
 Given('User Submit Channel Eform') do

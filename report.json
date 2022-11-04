@@ -26,11 +26,11 @@
             "name": "User Submit Channel Eform",
             "line": 5,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:5"
+              "location": "features/step_definitions/e2ekasbon.rb:6"
             },
             "result": {
               "status": "passed",
-              "duration": 11422000000
+              "duration": 11292968000
             }
           },
           {
@@ -38,11 +38,11 @@
             "name": "User Fill Page Data Utama",
             "line": 6,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:20"
+              "location": "features/step_definitions/e2ekasbon.rb:21"
             },
             "result": {
               "status": "passed",
-              "duration": 11866831000
+              "duration": 11894562000
             }
           },
           {
@@ -50,11 +50,11 @@
             "name": "User Click Lanjutkan Button",
             "line": 7,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:30"
+              "location": "features/step_definitions/e2ekasbon.rb:31"
             },
             "result": {
               "status": "passed",
-              "duration": 2112652000
+              "duration": 2092300000
             }
           },
           {
@@ -62,11 +62,11 @@
             "name": "User Fill Page Data Identitas",
             "line": 8,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:33"
+              "location": "features/step_definitions/e2ekasbon.rb:34"
             },
             "result": {
               "status": "passed",
-              "duration": 31120758000
+              "duration": 31178684000
             }
           },
           {
@@ -74,11 +74,11 @@
             "name": "User Fill Page Payroll",
             "line": 9,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:52"
+              "location": "features/step_definitions/e2ekasbon.rb:53"
             },
             "result": {
               "status": "passed",
-              "duration": 7382325000
+              "duration": 7381969000
             }
           },
           {
@@ -86,11 +86,11 @@
             "name": "User Fill Page Tujuan Pinjaman",
             "line": 10,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:59"
+              "location": "features/step_definitions/e2ekasbon.rb:60"
             },
             "result": {
               "status": "passed",
-              "duration": 4231121000
+              "duration": 4228776000
             }
           },
           {
@@ -98,11 +98,11 @@
             "name": "User Fill Page Data Pekerjaan",
             "line": 11,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:63"
+              "location": "features/step_definitions/e2ekasbon.rb:64"
             },
             "result": {
               "status": "passed",
-              "duration": 28531456000
+              "duration": 28578085000
             }
           },
           {
@@ -110,11 +110,11 @@
             "name": "User Fill Page Data Keluarga Tidak Serumah",
             "line": 12,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:77"
+              "location": "features/step_definitions/e2ekasbon.rb:78"
             },
             "result": {
               "status": "passed",
-              "duration": 9704624000
+              "duration": 9636223000
             }
           },
           {
@@ -122,11 +122,11 @@
             "name": "User Fill Page Rekening Fasilitas Xtra KasBon",
             "line": 13,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:84"
+              "location": "features/step_definitions/e2ekasbon.rb:85"
             },
             "result": {
               "status": "passed",
-              "duration": 3175800000
+              "duration": 3165001000
             }
           },
           {
@@ -134,11 +134,11 @@
             "name": "User Upload E-KTP",
             "line": 14,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:89"
+              "location": "features/step_definitions/e2ekasbon.rb:90"
             },
             "result": {
               "status": "passed",
-              "duration": 3283385000
+              "duration": 3246800000
             }
           },
           {
@@ -146,11 +146,11 @@
             "name": "User Click Lanjutkan at Page Summary",
             "line": 15,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:94"
+              "location": "features/step_definitions/e2ekasbon.rb:95"
             },
             "result": {
               "status": "passed",
-              "duration": 4137820000
+              "duration": 4100569000
             }
           },
           {
@@ -158,11 +158,11 @@
             "name": "User Click Lanjutkan at Page Persetujuan Nasabah",
             "line": 16,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:98"
+              "location": "features/step_definitions/e2ekasbon.rb:99"
             },
             "result": {
               "status": "passed",
-              "duration": 4126027000
+              "duration": 4135435000
             }
           },
           {
@@ -170,11 +170,11 @@
             "name": "User Give Thick Mark At Page TnC, then Click Lanjutkan",
             "line": 17,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:102"
+              "location": "features/step_definitions/e2ekasbon.rb:103"
             },
             "result": {
               "status": "passed",
-              "duration": 6264127000
+              "duration": 6228241000
             }
           },
           {
@@ -182,11 +182,11 @@
             "name": "User Input Valid OTP",
             "line": 18,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:107"
+              "location": "features/step_definitions/e2ekasbon.rb:108"
             },
             "result": {
               "status": "passed",
-              "duration": 6074594000
+              "duration": 4164054000
             }
           }
         ],
@@ -203,7 +203,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 19000
+              "duration": 17000
             }
           },
           {
@@ -223,7 +223,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 129000
+              "duration": 103000
             }
           }
         ]
@@ -257,11 +257,11 @@
             "name": "User Submit Channel Reguler",
             "line": 5,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:10"
+              "location": "features/step_definitions/e2ekasbon.rb:11"
             },
             "result": {
               "status": "passed",
-              "duration": 6631456000
+              "duration": 6626739000
             }
           },
           {
@@ -269,11 +269,11 @@
             "name": "User Fill Page Data Utama",
             "line": 6,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:20"
+              "location": "features/step_definitions/e2ekasbon.rb:21"
             },
             "result": {
               "status": "passed",
-              "duration": 11909505000
+              "duration": 11808359000
             }
           },
           {
@@ -281,11 +281,11 @@
             "name": "User Click Lanjutkan Button",
             "line": 7,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:30"
+              "location": "features/step_definitions/e2ekasbon.rb:31"
             },
             "result": {
               "status": "passed",
-              "duration": 2125230000
+              "duration": 2125290000
             }
           },
           {
@@ -293,11 +293,11 @@
             "name": "User Fill Page Data Identitas",
             "line": 8,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:33"
+              "location": "features/step_definitions/e2ekasbon.rb:34"
             },
             "result": {
               "status": "passed",
-              "duration": 31307649000
+              "duration": 31075852000
             }
           },
           {
@@ -305,11 +305,11 @@
             "name": "User Fill Page Payroll",
             "line": 9,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:52"
+              "location": "features/step_definitions/e2ekasbon.rb:53"
             },
             "result": {
               "status": "passed",
-              "duration": 7432780000
+              "duration": 7361313000
             }
           },
           {
@@ -317,11 +317,11 @@
             "name": "User Fill Page Tujuan Pinjaman",
             "line": 10,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:59"
+              "location": "features/step_definitions/e2ekasbon.rb:60"
             },
             "result": {
               "status": "passed",
-              "duration": 4259732000
+              "duration": 4267397000
             }
           },
           {
@@ -329,11 +329,11 @@
             "name": "User Fill Page Data Pekerjaan",
             "line": 11,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:63"
+              "location": "features/step_definitions/e2ekasbon.rb:64"
             },
             "result": {
               "status": "passed",
-              "duration": 28750644000
+              "duration": 28577435000
             }
           },
           {
@@ -341,11 +341,11 @@
             "name": "User Fill Page Data Keluarga Tidak Serumah",
             "line": 12,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:77"
+              "location": "features/step_definitions/e2ekasbon.rb:78"
             },
             "result": {
               "status": "passed",
-              "duration": 9719061000
+              "duration": 9651548000
             }
           },
           {
@@ -353,11 +353,11 @@
             "name": "User Fill Page Rekening Fasilitas Xtra KasBon",
             "line": 13,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:84"
+              "location": "features/step_definitions/e2ekasbon.rb:85"
             },
             "result": {
               "status": "passed",
-              "duration": 3161088000
+              "duration": 3163008000
             }
           },
           {
@@ -365,11 +365,11 @@
             "name": "User Upload E-KTP",
             "line": 14,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:89"
+              "location": "features/step_definitions/e2ekasbon.rb:90"
             },
             "result": {
               "status": "passed",
-              "duration": 3262318000
+              "duration": 3263144000
             }
           },
           {
@@ -377,11 +377,11 @@
             "name": "User Click Lanjutkan at Page Summary",
             "line": 15,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:94"
+              "location": "features/step_definitions/e2ekasbon.rb:95"
             },
             "result": {
               "status": "passed",
-              "duration": 4140067000
+              "duration": 4121884000
             }
           },
           {
@@ -389,11 +389,11 @@
             "name": "User Click Lanjutkan at Page Persetujuan Nasabah",
             "line": 16,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:98"
+              "location": "features/step_definitions/e2ekasbon.rb:99"
             },
             "result": {
               "status": "passed",
-              "duration": 4125266000
+              "duration": 4109459000
             }
           },
           {
@@ -401,11 +401,11 @@
             "name": "User Give Thick Mark At Page TnC, then Click Lanjutkan",
             "line": 17,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:102"
+              "location": "features/step_definitions/e2ekasbon.rb:103"
             },
             "result": {
               "status": "passed",
-              "duration": 6245359000
+              "duration": 6230290000
             }
           },
           {
@@ -413,11 +413,11 @@
             "name": "User Input Valid OTP",
             "line": 18,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:107"
+              "location": "features/step_definitions/e2ekasbon.rb:108"
             },
             "result": {
               "status": "passed",
-              "duration": 4164102000
+              "duration": 4164152000
             }
           }
         ],
@@ -434,7 +434,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 67000
+              "duration": 46000
             }
           },
           {
@@ -443,7 +443,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 57000
+              "duration": 54000
             }
           }
         ],
@@ -488,11 +488,11 @@
             "name": "User Submit Channel Staff",
             "line": 5,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:15"
+              "location": "features/step_definitions/e2ekasbon.rb:16"
             },
             "result": {
               "status": "passed",
-              "duration": 6550455000
+              "duration": 6548192000
             }
           },
           {
@@ -500,11 +500,11 @@
             "name": "User Fill Page Data Utama",
             "line": 6,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:20"
+              "location": "features/step_definitions/e2ekasbon.rb:21"
             },
             "result": {
               "status": "passed",
-              "duration": 11837036000
+              "duration": 11858955000
             }
           },
           {
@@ -512,11 +512,11 @@
             "name": "User Click Lanjutkan Button",
             "line": 7,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:30"
+              "location": "features/step_definitions/e2ekasbon.rb:31"
             },
             "result": {
               "status": "passed",
-              "duration": 2110590000
+              "duration": 2105326000
             }
           },
           {
@@ -524,11 +524,11 @@
             "name": "User Fill Page Data Identitas",
             "line": 8,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:33"
+              "location": "features/step_definitions/e2ekasbon.rb:34"
             },
             "result": {
               "status": "passed",
-              "duration": 31065588000
+              "duration": 31076334000
             }
           },
           {
@@ -536,11 +536,11 @@
             "name": "User Fill Page Payroll",
             "line": 9,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:52"
+              "location": "features/step_definitions/e2ekasbon.rb:53"
             },
             "result": {
               "status": "passed",
-              "duration": 7370083000
+              "duration": 7383283000
             }
           },
           {
@@ -548,11 +548,11 @@
             "name": "User Fill Page Tujuan Pinjaman",
             "line": 10,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:59"
+              "location": "features/step_definitions/e2ekasbon.rb:60"
             },
             "result": {
               "status": "passed",
-              "duration": 4296632000
+              "duration": 4262475000
             }
           },
           {
@@ -560,11 +560,11 @@
             "name": "User Fill Page Data Pekerjaan",
             "line": 11,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:63"
+              "location": "features/step_definitions/e2ekasbon.rb:64"
             },
             "result": {
               "status": "passed",
-              "duration": 30746620000
+              "duration": 30664567000
             }
           },
           {
@@ -572,11 +572,11 @@
             "name": "User Fill Page Data Keluarga Tidak Serumah",
             "line": 12,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:77"
+              "location": "features/step_definitions/e2ekasbon.rb:78"
             },
             "result": {
               "status": "passed",
-              "duration": 9684864000
+              "duration": 9671284000
             }
           },
           {
@@ -584,11 +584,11 @@
             "name": "User Fill Page Rekening Fasilitas Xtra KasBon",
             "line": 13,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:84"
+              "location": "features/step_definitions/e2ekasbon.rb:85"
             },
             "result": {
               "status": "passed",
-              "duration": 3187968000
+              "duration": 3177630000
             }
           },
           {
@@ -596,11 +596,11 @@
             "name": "User Upload E-KTP",
             "line": 14,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:89"
+              "location": "features/step_definitions/e2ekasbon.rb:90"
             },
             "result": {
               "status": "passed",
-              "duration": 3251591000
+              "duration": 3263153000
             }
           },
           {
@@ -608,11 +608,11 @@
             "name": "User Click Lanjutkan at Page Summary",
             "line": 15,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:94"
+              "location": "features/step_definitions/e2ekasbon.rb:95"
             },
             "result": {
               "status": "passed",
-              "duration": 4126773000
+              "duration": 4137440000
             }
           },
           {
@@ -620,11 +620,11 @@
             "name": "User Click Lanjutkan at Page Persetujuan Nasabah",
             "line": 16,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:98"
+              "location": "features/step_definitions/e2ekasbon.rb:99"
             },
             "result": {
               "status": "passed",
-              "duration": 4106125000
+              "duration": 4109635000
             }
           },
           {
@@ -632,11 +632,11 @@
             "name": "User Give Thick Mark At Page TnC, then Click Lanjutkan",
             "line": 17,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:102"
+              "location": "features/step_definitions/e2ekasbon.rb:103"
             },
             "result": {
               "status": "passed",
-              "duration": 6246214000
+              "duration": 6231295000
             }
           },
           {
@@ -644,11 +644,11 @@
             "name": "User Input Valid OTP",
             "line": 18,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:107"
+              "location": "features/step_definitions/e2ekasbon.rb:108"
             },
             "result": {
               "status": "passed",
-              "duration": 4183510000
+              "duration": 4162132000
             }
           },
           {
@@ -656,11 +656,11 @@
             "name": "User Exit From Landing Form",
             "line": 19,
             "match": {
-              "location": "features/step_definitions/e2ekasbon.rb:110"
+              "location": "features/step_definitions/e2ekasbon.rb:111"
             },
             "result": {
               "status": "passed",
-              "duration": 185971000
+              "duration": 181258000
             }
           }
         ],
@@ -677,7 +677,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 41000
+              "duration": 40000
             }
           },
           {
@@ -686,7 +686,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 46000
+              "duration": 35000
             }
           }
         ],
@@ -697,7 +697,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 140000
+              "duration": 79000
             }
           }
         ]

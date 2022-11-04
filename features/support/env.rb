@@ -4,10 +4,9 @@ require 'capybara/cucumber'
 require 'capybara/rspec'
 require 'rspec/expectations'
 require 'selenium-webdriver'
-# require 'capybara-chrome_dev_tools'
+require 'capybara-chrome_dev_tools'
 require_relative '../support/buttons.rb'
 require_relative '../pages/channel KasBon.rb'
-#comment
 
 include RSpec::Matchers
 

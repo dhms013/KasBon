@@ -8,6 +8,7 @@ require 'selenium-webdriver'
 require_relative '../support/buttons.rb'
 require_relative '../pages/channel KasBon.rb'
 
+
 include RSpec::Matchers
 
 Capybara.register_driver :iphone do |app|

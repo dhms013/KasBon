@@ -11,16 +11,6 @@ require_relative '../pages/channel KasBon.rb'
 include RSpec::Matchers
 
 Capybara.register_driver :iphone do |app|
-  # Capybara::ChromeDevTools.enabled = true
-  # dev_tools.on "Network.requestWillBeSent" do |arg|
-  #   request = OpenStruct.new(arg["request"])
-  #   puts "Requesting #{request.url}"
-  # end
-  
-  # dev_tools.on "Network.responseReceived" do |arg|
-  #   response = OpenStruct.new(arg["response"])
-  #   puts "response #{response.url}"
-  # end
   Capybara::Selenium::Driver.new(app,
     :browser => :chrome,
     :capabilities => Selenium::WebDriver::Remote::Capabilities.chrome(
@@ -34,3 +24,13 @@ Capybara.register_driver :iphone do |app|
     )
   )
 end
+# Capybara::ChromeDevTools.enabled = true
+  # dev_tools.on "Network.requestWillBeSent" do |arg|
+  #   request = OpenStruct.new(arg["request"])
+  #   puts "Requesting #{request.url}"
+  # end
+  
+  # dev_tools.on "Network.responseReceived" do |arg|
+  #   response = OpenStruct.new(arg["response"])
+  #   puts "response #{response.url}"
+  # end

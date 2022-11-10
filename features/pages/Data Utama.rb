@@ -8,12 +8,12 @@ def nomor_induk_kependudukan
 end
 def nama_depan
     $session.find(:xpath,'//*[@id="nama_depan"]')
-    if $session.current_url == "http://retailloan.dcidev.id/kasbon/form/ksbe"
-        $session.find(:xpath,'//*[@id="nama_depan"]').send_keys('eform')
-        puts "eform"
-    elsif $session.current_url == "http://retailloan.dcidev.id/kasbon/form/ksbr"
+    if $session.current_url == "http://retailloan.dcidev.id/kasbon/form/ksbr"
         $session.find(:xpath,'//*[@id="nama_depan"]').send_keys('reguler')
         puts "reguler"
+    elsif $session.current_url == "http://retailloan.dcidev.id/kasbon/form/ksbe"
+        $session.find(:xpath,'//*[@id="nama_depan"]').send_keys('eform')
+        puts "eform"
     else
         $session.find(:xpath,'//*[@id="nama_depan"]').send_keys('staff')
         puts "staff"

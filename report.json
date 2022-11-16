@@ -1,0 +1,707 @@
+[
+  {
+    "id": "e2e-kasbon-eform",
+    "uri": "features/TestSuite/eform.feature",
+    "keyword": "Feature",
+    "name": "e2e KasBon eform",
+    "description": "",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@KasBone2e",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": "e2e-kasbon-eform;verify-end-to-end-functionality-test",
+        "keyword": "Scenario",
+        "name": "Verify end to end functionality test",
+        "description": "",
+        "line": 3,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "User Submit Channel Eform",
+            "line": 5,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 12716449000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Utama",
+            "line": 6,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11952610000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Click Lanjutkan Button",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:30"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2127942000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Identitas",
+            "line": 8,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31306382000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Payroll",
+            "line": 9,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:52"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7446374000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Tujuan Pinjaman",
+            "line": 10,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:59"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4298064000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Pekerjaan",
+            "line": 11,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:63"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30078931000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Keluarga Tidak Serumah",
+            "line": 12,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 9751546000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Rekening Fasilitas Xtra KasBon",
+            "line": 13,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:84"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3197192000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Upload E-KTP",
+            "line": 14,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:89"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3278171000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Click Lanjutkan at Page Summary",
+            "line": 15,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:94"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4141194000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Click Lanjutkan at Page Persetujuan Nasabah",
+            "line": 16,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:98"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4122137000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Give Thick Mark At Page TnC, then Click Lanjutkan",
+            "line": 17,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:102"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6246424000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Input Valid OTP",
+            "line": 18,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:107"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4183702000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@KasBone2e",
+            "line": 1
+          }
+        ],
+        "before": [
+          {
+            "match": {
+              "location": "capybara-3.37.1/lib/capybara/cucumber.rb:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14000
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-3.37.1/lib/capybara/cucumber.rb:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10000
+            }
+          }
+        ],
+        "after": [
+          {
+            "match": {
+              "location": "capybara-3.37.1/lib/capybara/cucumber.rb:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 158000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e2e-kasbon-reguler",
+    "uri": "features/TestSuite/reguler.feature",
+    "keyword": "Feature",
+    "name": "e2e KasBon reguler",
+    "description": "",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@KasBone2e",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": "e2e-kasbon-reguler;verify-end-to-end-functionality-test",
+        "keyword": "Scenario",
+        "name": "Verify end to end functionality test",
+        "description": "",
+        "line": 3,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "User Submit Channel Reguler",
+            "line": 5,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6641346000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Utama",
+            "line": 6,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11932881000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Click Lanjutkan Button",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:30"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2115511000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Identitas",
+            "line": 8,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31257745000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Payroll",
+            "line": 9,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:52"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7384969000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Tujuan Pinjaman",
+            "line": 10,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:59"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4263785000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Pekerjaan",
+            "line": 11,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:63"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 28576773000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Keluarga Tidak Serumah",
+            "line": 12,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 9671574000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Rekening Fasilitas Xtra KasBon",
+            "line": 13,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:84"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3161619000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Upload E-KTP",
+            "line": 14,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:89"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3262415000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Click Lanjutkan at Page Summary",
+            "line": 15,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:94"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4156606000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Click Lanjutkan at Page Persetujuan Nasabah",
+            "line": 16,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:98"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4108292000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Give Thick Mark At Page TnC, then Click Lanjutkan",
+            "line": 17,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:102"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6230411000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Input Valid OTP",
+            "line": 18,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:107"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4185266000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@KasBone2e",
+            "line": 1
+          }
+        ],
+        "before": [
+          {
+            "match": {
+              "location": "capybara-3.37.1/lib/capybara/cucumber.rb:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47000
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-3.37.1/lib/capybara/cucumber.rb:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 70000
+            }
+          }
+        ],
+        "after": [
+          {
+            "match": {
+              "location": "capybara-3.37.1/lib/capybara/cucumber.rb:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 114000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e2e-kasbon-staff",
+    "uri": "features/TestSuite/staff.feature",
+    "keyword": "Feature",
+    "name": "e2e KasBon staff",
+    "description": "",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@KasBone2e",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": "e2e-kasbon-staff;verify-end-to-end-functionality-test",
+        "keyword": "Scenario",
+        "name": "Verify end to end functionality test",
+        "description": "",
+        "line": 3,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "User Submit Channel Staff",
+            "line": 5,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6675079000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Utama",
+            "line": 6,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11946569000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Click Lanjutkan Button",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:30"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2119938000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Identitas",
+            "line": 8,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31305605000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Payroll",
+            "line": 9,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:52"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7437817000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Tujuan Pinjaman",
+            "line": 10,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:59"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4260383000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Pekerjaan",
+            "line": 11,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:63"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30816989000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Data Keluarga Tidak Serumah",
+            "line": 12,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 9771331000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Fill Page Rekening Fasilitas Xtra KasBon",
+            "line": 13,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:84"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3192654000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Upload E-KTP",
+            "line": 14,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:89"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3276854000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Click Lanjutkan at Page Summary",
+            "line": 15,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:94"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4138258000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Click Lanjutkan at Page Persetujuan Nasabah",
+            "line": 16,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:98"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4125710000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Give Thick Mark At Page TnC, then Click Lanjutkan",
+            "line": 17,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:102"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6263730000
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "User Input Valid OTP",
+            "line": 18,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:107"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4197739000
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "User Exit From Landing Form",
+            "line": 19,
+            "match": {
+              "location": "features/step_definitions/e2ekasbon.rb:110"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 182177000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@KasBone2e",
+            "line": 1
+          }
+        ],
+        "before": [
+          {
+            "match": {
+              "location": "capybara-3.37.1/lib/capybara/cucumber.rb:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49000
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-3.37.1/lib/capybara/cucumber.rb:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 61000
+            }
+          }
+        ],
+        "after": [
+          {
+            "match": {
+              "location": "capybara-3.37.1/lib/capybara/cucumber.rb:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 92000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

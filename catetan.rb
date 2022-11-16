@@ -1,0 +1,1 @@
+cucumber -f pretty --expand -f json -o report.json -f html -o report.html
